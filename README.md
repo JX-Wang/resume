@@ -58,11 +58,11 @@
 
 
 # 专业技能  
-熟练掌握python，有分布式，爬虫，数据库，socket，API开发的相关经验。
-有基于tornado, flask(python web框架)的API开发经验，开发过较为简单的信息查询网站[link](https://github.com/JX-Wang/Whois_Service)，了解CSS，HTML和ASP。
-基于python有tkinter(UI界面)的编程经验[link](https://github.com/JX-Wang/Dynamic-Sorting)有，
-有较丰富的linux使用经验，熟悉掌握git，vim，linux命令与配置，熟悉shell脚本
-熟悉C++，
+  熟练掌握python，有分布式，爬虫，数据库，socket，API开发的相关经验。
+  有基于tornado, flask(python web框架)的API开发经验，开发过较为简单的信息查询网站[link](https://github.com/JX-Wang/Whois_Service)，了解CSS，HTML和ASP。
+  基于python有tkinter(UI界面)的编程经验[link](https://github.com/JX-Wang/Dynamic-Sorting)有，
+  有较丰富的linux使用经验，熟悉掌握git，vim，linux命令与配置，熟悉shell脚本
+  熟悉C++，
 
 
 
