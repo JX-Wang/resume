@@ -61,9 +61,13 @@
   熟练掌握python，有分布式，爬虫，数据库，socket，API开发的相关经验。  
   有基于tornado, flask(python web框架)的API开发经验，开发过较为简单的信息查询网站[link](https://github.com/JX-Wang/Whois_Service)，了解CSS，HTML和ASP。  
   基于python有tkinter(UI界面)的编程经验[link](https://github.com/JX-Wang/Dynamic-Sorting)，有较丰富的linux使用经验，熟悉掌握git，vim，linux命令与配置，熟悉shell脚本  
-  熟悉C++，
+  熟悉C++，熟悉常用的算法，数据结构，有简单的WinSock的相关开发经验。  
+  本科期间探究过伪基站LINK，并有基于OpenCV的计算机视觉相关的经验。  
 
 
 
 # 自我描述
-wow
+  本科期间有较为丰富的项目经历，主要为域名安全，数据分析相关。兴趣广泛，参与过伪基站以及计算机视觉的相关探究。对新兴技术以及开源社区兴趣浓厚，个人博客更新活跃。自学能力较强，独自解决能力较强。踏实肯干，有较好的数学，英语基础。  
+
+  预期实习时间为3-6个月，每周工作5-6天，个人时间充足，可以尽快到岗。  
+  期待实习岗位：研发工程师(Python) / 其他相关岗位都可  
