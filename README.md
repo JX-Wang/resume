@@ -46,21 +46,20 @@
 
 *2017.10 - 至今*
 
-(*此项目为实验室承接国家某部门中心的重点研发计划*)
 功能：对非法域名进行监测，数据挖掘以及关联分析
 
 负责部分以及特性：
-系统框架，域名WHOIS数据获取，中间件，系统后台以及数据库的日常维护。
+系统框架，域名WHOIS数据获取，中间件，系统后台以及MySQL数据库的日常维护。
 
 - 基于Tornado的API数据中间层
-- 中间件数据的获取，以及数据的缓存机制
-
+- 基于schedule的定时数据的获取，大量关键数据定时缓存机制，减少用户交互时系统响应时间。
+- 基于token的无状态身份认证机制。
 
 
 # 专业技能  
   熟练掌握python，有分布式，爬虫，数据库，socket，API开发的相关经验。  
-  有基于tornado, flask(python web框架)的API开发经验，开发过较为简单的信息查询网站[link](https://github.com/JX-Wang/Whois_Service)，了解CSS，HTML和ASP。  
-  基于python有tkinter(UI界面)的编程经验[link](https://github.com/JX-Wang/Dynamic-Sorting)，有较丰富的linux使用经验，熟悉掌握git，vim，linux命令与配置，熟悉shell脚本  
+  有基于tornado, flask(python web框架)的API开发经验，有前端开发经验[link](https://github.com/JX-Wang/Whois_Service)，有tkinter(python UI界面)的编程经验[link](https://github.com/JX-Wang/Dynamic-Sorting)  
+  除此以外有较丰富的linux使用经验，熟悉MySQL数据库，熟悉掌握git，vim，linux命令，熟悉shell脚本，熟悉X-ftp，X-shell, Navicat等软件。  
   熟悉C++，熟悉常用的算法，数据结构，有简单的WinSock的相关开发经验。  
   本科期间探究过伪基站LINK，并有基于OpenCV的计算机视觉相关的经验。  
 
