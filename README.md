@@ -60,7 +60,7 @@
   有基于tornado, flask(python web框架)的API开发经验，有前端开发经验[link](https://github.com/JX-Wang/Whois_Service)，有tkinter(python UI界面)的编程经验[link](https://github.com/JX-Wang/Dynamic-Sorting)  
   除此以外有较丰富的linux使用经验，熟悉MySQL数据库，熟练掌握git，vim，linux命令，熟悉shell脚本，熟悉X-ftp，X-shell, Navicat等软件。  
   除此以外使用过C/C++/Java，熟悉常用的算法，数据结构，有简单的WinSock的相关开发经验。  
-  本科期间探究过伪基站[LINK](http://wudly.cn/?p=83)，并有基于OpenCV的计算机视觉相关的编程经验。  
+  本科期间探究过伪基站[link](http://wudly.cn/?p=83)，并有基于OpenCV的计算机视觉相关的编程经验。  
 
 
 
